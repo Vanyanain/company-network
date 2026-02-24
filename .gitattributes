@@ -1,3 +1,3 @@
-# Force GitHub to count .pkt files as Cisco Packet Tracer
-*.pkt linguist-language=C
-*.pkt linguist-detectable=true
+git add .gitattributes
+git commit -m "Force .pkt language detection"
+git push
