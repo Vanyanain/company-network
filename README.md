@@ -19,6 +19,8 @@ To design, configure, and test a small enterprise network that:
 - Implements NAT for external communication
 
 ---
+<img width="1390" height="1094" alt="image" src="https://github.com/user-attachments/assets/90fa75e1-0b94-46f5-8c41-228d58656a6b" />
+
 
 ## 🚀 Features Implemented
 
